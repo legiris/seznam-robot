@@ -1,1 +1,1 @@
-seznam-robot.sovaplus.cz
+<p>You can test <a href="http://seznam-robot.sovaplus.cz/">here</a>.</p>
